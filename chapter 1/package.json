@@ -1,0 +1,29 @@
+{
+  "name": "js-backend",
+  "version": "1.0.0",
+  "description": "Learning backend in js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soumilsuri/JS-Backend.git"
+  },
+  "keywords": [
+    "Backend"
+  ],
+  "author": "Soumil Suri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soumilsuri/JS-Backend/issues"
+  },
+  "homepage": "https://github.com/soumilsuri/JS-Backend#readme",
+  "dependencies": {
+    "dot": "^1.1.3",
+    "dotenv": "^16.4.5",
+    "env": "^0.0.2",
+    "express": "^4.19.2"
+  }
+}
